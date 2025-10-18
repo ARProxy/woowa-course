@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="calculator.ApplicationTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2025-10-18T19:02:32.396Z" hostname="dongs-MacBook-Pro.local" time="0.028">
+  <properties/>
+  <testcase name="커스텀_구분자_사용()" classname="calculator.ApplicationTest" time="0.025"/>
+  <testcase name="예외_테스트()" classname="calculator.ApplicationTest" time="0.002"/>
+  <system-out><![CDATA[결과 : 1
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
